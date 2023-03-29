@@ -1,4 +1,8 @@
-### Hi there 👋
+![john-towner-CakC6u4d95g-unsplash (1)](https://user-images.githubusercontent.com/115671558/228580802-b886c165-2ea6-45d4-892d-6989f621460f.png)
+
+
+
+### Solutions are on the horizon!
 
 <!--
 **DevBrent3274/DevBrent3274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
