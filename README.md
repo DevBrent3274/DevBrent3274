@@ -3,7 +3,7 @@ Photo by <a href="https://unsplash.com/@heytowner?utm_source=unsplash&utm_medium
   
 ### Solutions are on the horizon!
 
-My name is Brent Johnson and I ma a Full Stack developer from Minnesota.
+My name is Brent Johnson and I am a Full Stack developer from Minnesota.
 - 🌱 I’m currently learning **Advanced React and Python**
 
 ### - [Portfolio](https://devbrent3274.github.io/react-portfolio/)
