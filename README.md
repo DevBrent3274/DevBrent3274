@@ -3,12 +3,14 @@ Photo by <a href="https://unsplash.com/@heytowner?utm_source=unsplash&utm_medium
   
 ### Solutions are on the horizon!
 
-My name is Brent Johnson and I am a Full Stack developer from Minnesota.
+Hi, my name is **Brent Johnson** and I am a Full Stack developer from Minnesota.
 - 🌱 I’m currently learning **Advanced React and Python**
+- 🔭 I’m currently working on **An Amazon Clone using React**
+- 💼 Check out my [Portfolio](https://devbrent3274.github.io/react-portfolio/)
+- 📄 You can also see my Resume
+- 📫 How to reach me: <brentjohnson3274@gmail.com>
 
-### - [Portfolio](https://devbrent3274.github.io/react-portfolio/)
-
-### Technologies
+### Technologies and Tools
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="63" height="64" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="63" height="64" />
@@ -26,13 +28,14 @@ My name is Brent Johnson and I am a Full Stack developer from Minnesota.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="63" height="64" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="63" height="64" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="63" height="64" />
-                                                                                    
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" width="63" height="64" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="63" height="64" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="63" height="64" />
 </p>         
 
-## Contact
+### Thanks for stopping by and checking out my GitHub.
 
-### - 📫 How to reach me:<brentjohnson3274@gmail.com>
+
 <!--
 **DevBrent3274/DevBrent3274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,4 +49,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📄
+- 🛠️
+- 💼
 -->
