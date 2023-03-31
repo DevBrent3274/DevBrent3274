@@ -7,7 +7,7 @@ Hi, my name is **Brent Johnson** and I am a Full Stack developer from Minnesota.
 - 🌱 I’m currently learning **Advanced React and Python**
 - 🔭 I’m currently working on **An Amazon Clone using React**
 - 💼 Check out my [Portfolio](https://devbrent3274.github.io/react-portfolio/)
-- 📄 You can also see my Resume
+- 📄 You can also see my [Resume](https://github.com/DevBrent3274/react-portfolio/blob/main/src/components/Resume/Resume.pdf)
 - 📫 How to reach me: <brentjohnson3274@gmail.com>
 
 ### Technologies and Tools
